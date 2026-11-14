@@ -23,6 +23,7 @@ Switched to modern backend development at the company whose articles got a lot o
 
 **Sep 2024 · Trackier**
 Went from sending a million emails to handling a billion clicks a day. I work on the fraud detection and deduplication that filters out fake clicks, in a Go service on Kafka, MongoDB and ClickHouse.
+
 ---
 
 ## 🏆 A few things I'm proud of
