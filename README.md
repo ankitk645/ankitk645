@@ -22,7 +22,7 @@ Joined **Cognizant** and spent the next year writing **COBOL and JCL** for a big
 Switched to modern backend development at the company whose articles got a lot of us through college. I built the systems behind their email and WhatsApp campaigns. My favourite win was sending a million emails in 45 minutes instead of 3 hours.
 
 **Sep 2024 · Trackier**
-Went from sending a million emails to handling a billion clicks a day. I work on the fraud detection and deduplication that filters out fake clicks, in a Go service on Kafka, MongoDB and ClickHouse.
+Went from sending a million emails to handling a billion clicks a day. I work on the fraud detection and deduplication that filters out fake and duplicate clicks, in a Go service on Kafka, MongoDB and ClickHouse. I also built automated daily report delivery for clients, and brought AI-assisted development into our team's workflow.
 
 ---
 
